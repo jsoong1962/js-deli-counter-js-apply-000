@@ -2,7 +2,7 @@
 let number = 0
 
 
-function takeANumberOldSchool() {
+function takeANumberOldSchool(number = 0) {
  numeber++
  return number;
 }
